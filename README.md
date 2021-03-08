@@ -6,6 +6,5 @@ requirements :
 * Git bash https://gitforwindows.org/
 * IDE of your choice, for example Visual Studio Code [[here]](https://code.visualstudio.com/)
     * Python extension [[here]](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-    * Azure functions extension [[here]](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
     * jupyter notebook extension
   
